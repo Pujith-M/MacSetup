@@ -2,7 +2,7 @@
 
 brew uninstall webstorm;
 brew uninstall intellij-idea;
-brew install --cask goland
+brew uninstall goland
 
 rm -rf ~/Library/ApplicationSupport/JetBrains;
 rm -rf ~/Library/Caches/JetBrains/;
